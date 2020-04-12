@@ -64,7 +64,7 @@ p.s.: no projeto, disponibilizei 2 maneiras de realizar a conexão de dados com 
 * **De maneira em cloud**: utilizando o Modulus;
 
 
-
+* 
 - …or create a new repository on the command line
 - echo "# CrudNodeBootstrap" >> README.md
 - git init
