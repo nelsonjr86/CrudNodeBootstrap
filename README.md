@@ -65,14 +65,14 @@ p.s.: no projeto, disponibilizei 2 maneiras de realizar a conexão de dados com 
 
 
 
- …or create a new repository on the command line
- echo "# CrudNodeBootstrap" >> README.md
- git init
- git add README.md
- git commit -m "first commit"
- git remote add origin https://github.com/nelsonjr86/CrudNodeBootstrap.git
- git push -u origin master
+- …or create a new repository on the command line
+- echo "# CrudNodeBootstrap" >> README.md
+- git init
+- git add README.md
+- git commit -m "first commit"
+- git remote add origin https://github.com/nelsonjr86/CrudNodeBootstrap.git
+- git push -u origin master
                 
- …or push an existing repository from the command line
- git remote add origin https://github.com/nelsonjr86/CrudNodeBootstrap.git
- git push -u origin master
+- …or push an existing repository from the command line
+- git remote add origin https://github.com/nelsonjr86/CrudNodeBootstrap.git
+- git push -u origin master
